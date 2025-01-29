@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(appBar: AppBar(title: Text("first App"))),
+      home: Scaffold(appBar: AppBar(title: Text("first"))),
     );
   }
 }
